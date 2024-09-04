@@ -1,4 +1,4 @@
-import Terminal from "./containers/Terminal/Terminal.tsx";
+import Terminal from "./containers/Terminal/Terminal.jsx";
 import "./App.css";
 
 function App() {
